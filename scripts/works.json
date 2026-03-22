@@ -1,0 +1,8 @@
+[
+  { "name": "hr", "script": "alacritty-e.sh hr" },
+  { "name": "leiter", "script": "alacritty-e.sh leiter" },
+  { "name": "rdkb", "script": "alacritty-e.sh rdkb" },
+  { "name": "portal", "script": "alacritty-e.sh portal" },
+  { "name": "pros", "script": "alacritty-e.sh pros" },
+  { "name": "feed", "script": "alacritty-e.sh feed" }
+]

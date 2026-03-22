@@ -1,0 +1,15 @@
+[
+  { "name": "ankets", "script": "alacritty-e.sh ankets" },
+  { "name": "ank", "script": "alacritty-e.sh ank" },
+  { "name": "portal", "script": "alacritty-e.sh portal" },
+  { "name": "patro", "script": "alacritty-e.sh patro" },
+  { "name": "rdkb", "script": "alacritty-e.sh rdkb" },
+  { "name": "hr", "script": "alacritty-e.sh hr" },
+  { "name": "surgeons", "script": "alacritty-e.sh surgeons" },
+  { "name": "visit", "script": "alacritty-e.sh visit" },
+  { "name": "land", "script": "alacritty-e.sh land" },
+  { "name": "pros", "script": "alacritty-e.sh pros" },
+  { "name": "cmus", "script": "alacritty-e.sh cmus" },
+  { "name": "read", "script": "alacritty-e.sh read" },
+  { "name": "pro-assister" }
+]
